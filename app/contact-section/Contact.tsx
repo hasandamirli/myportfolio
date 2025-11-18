@@ -82,7 +82,7 @@ const Contact = () => {
               />
             </Link>
             <Link
-              href="https://instagram.com/hdde.v"
+              href="https://instagram.com/hasandmrli"
               target="_blank"
               aria-label="View Instagram Profile"
             >
